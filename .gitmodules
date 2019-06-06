@@ -1,6 +1,6 @@
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/manuelmazzatelli/gameflix-frontend.git
+	url = git@github.com:jenkin/gameflix-frontend.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/undead-gio/gameflix-backend.git
+	url = git@github.com:jenkin/gameflix-backend.git
